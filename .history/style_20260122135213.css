@@ -45,7 +45,7 @@ body {
     transition: background-color 0.3s ease;
 }
 .btn__primary:active {
-    background-color: hsl(158, 42%, 18%);
+    background-color: hsl(158, 36%, 27%);
 }
 
 .product__preview {

@@ -44,9 +44,7 @@ body {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     transition: background-color 0.3s ease;
 }
-.btn__primary:active {
-    background-color: hsl(158, 42%, 18%);
-}
+
 
 .product__preview {
     display: flex;
